@@ -1,0 +1,10 @@
+puts 5
+puts "zxj"
+
+arg1=22
+
+def s_method (arg1)
+  puts arg1
+end
+
+s_method arg1
